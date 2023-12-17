@@ -77,7 +77,7 @@ Registration Page
 Registration Page
 
 Login Page
-<img width="1196" alt="Screenshot 2023-05-16 at 19 26 30" src="https://github.com/kalisakelly/Photo_gallery-app/assets/101429002/53441867-e4d0-4688-8444-ff4c90625ecf">
+<img width="1196" alt="Screenshot 2023-05-16 at 19 26 30" src="https://github.com/ntunguranyi/gallery-photo-app/blob/master/WhatsApp%20Image%202023-12-17%20at%2014.15.46.jpeg">
 
 
 Login Page
