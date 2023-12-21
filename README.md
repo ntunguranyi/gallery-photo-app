@@ -58,7 +58,7 @@ spring.datasource.url=jdbc:postgresql://localhost:5432/galleryphoto
 spring.datasource.username=your_username
 spring.datasource.password=your_password
 Usage
-Open your web browser and navigate to http://localhost:8080.
+Open your web browser and navigate to http://localhost:5858.
 
 Register a new user account by clicking on the "Register" button and providing the required information.
 
@@ -95,8 +95,7 @@ search
 <img width="862" alt="Screenshot 2023-05-16 at 19 27 03" src="https://github.com/kalisakelly/Photo_gallery-app/assets/101429002/7bfeb686-56a5-4f76-afaf-80e2cb946586">
 
 
-link to access it : [<a href="[https://photogallery-app-production.up.railway.app](https://gallery-5k0l.onrender.com)">PhotoGallery.App</a>
-<br/>](https://gallery-5k0l.onrender.com)
+link to access it : https://gallery-5k0l.onrender.com/find
 
 link to access the documentation: <a href="https://docs.google.com/document/d/1dT-q8wckjBQvPfpeS0VhG9sIUbHSnhhf/edit?usp=sharing&ouid=106655911330539580739&rtpof=true&sd=true">https://docs.google.com/document/d/1dT-q8wckjBQvPfpeS0VhG9sIUbHSnhhf/edit?usp=sharing&ouid=106655911330539580739&rtpof=true&sd=true</a>
 
