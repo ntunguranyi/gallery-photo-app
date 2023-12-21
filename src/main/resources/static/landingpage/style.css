@@ -348,7 +348,6 @@ abbr {
   color: #ff9697;
 }
 .text-hide {
-  font: 0/0 a;
   color: transparent;
   text-shadow: none;
   background-color: transparent;
@@ -1057,7 +1056,7 @@ header {
 header.fixed {
 }
 header.nav-up {
-  top: -(var(--header-height-min));
+  /*top: -(var(--header-height-min));*/
 top: -160px;
 }
 #header-wrap {
